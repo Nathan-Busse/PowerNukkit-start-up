@@ -20,5 +20,24 @@ PowerNukkit is a modified version of Nukkit, a Bedrock Edition Minecraft server 
 
 # Note 
 
-If updating the PowerNukkit JAR file replace the following in the script <>.
+If updating the PowerNukkit JAR file replace the following in the script < powernukkit-1.5.0.0-PN-shaded.jar > with the new jar file name, .jar must also be included.
 Then save the script.
+
+# Example
+
+powernukkit-1.5.0.0-PN-shaded.jar
+
+            |
+            |
+            |
+            |
+           ( )
+           
+ powernukkit-1.6.0.0-PN-shaded.jar
+ 
+ Then save.
+ 
+ # Note
+ 
+ The script does not need to be changed yet because it is set to the latest version (powernukkit-1.5.0.0-PN-shaded.jar).
+           
