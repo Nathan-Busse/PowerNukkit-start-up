@@ -31,8 +31,8 @@ powernukkit-1.5.0.0-PN-shaded.jar
             |
             |
             |
-           ( )
-           
+           \|/
+            
  powernukkit-1.6.0.0-PN-shaded.jar
  
  Then save.
